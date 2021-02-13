@@ -12,3 +12,5 @@ This is a project to auto-deploy with an ML payload
 3. Make sure you enable these settings
 
 ![Screen Shot 2020-11-04 at 8 07 18 PM](https://user-images.githubusercontent.com/58792/98184850-610e5d80-1ed9-11eb-9950-6e225675ac2d.png)
+
+*Part of Duke Coursera Course:  Cloud Computing for Data*
