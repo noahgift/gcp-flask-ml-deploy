@@ -1,4 +1,5 @@
 steps:
 - name: "gcr.io/cloud-builders/gcloud"
+  dir: gcp-flask-ml-deploy/
   args: ["app", "deploy"]
 timeout: "1600s"
